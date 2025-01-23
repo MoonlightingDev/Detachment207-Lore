@@ -1,5 +1,5 @@
+date: 2024-04-14
 Created by [[Candyman]]
-Date: 14/04/2024
 
 
 Under the cloak of night, our unit's convoy stealthily traverses the rugged terrain of the Anizay green zone. Using clandestine tactics, we secure safe passage by greasing palms and striking deals with local farmers and authorities to ensure our movements go unnoticed by the unsuspecting populace. As dawn breaks, we reach our destination: the abandoned British FOB Nauzad. Despite its dilapidated state, this strategic outpost serves as our base of operations on the edge of the safe green zone. With limited space and time, we swiftly begin the deployment of our assets, setting the stage for our imminent operation against the forces of the ION corporatio
