@@ -1,5 +1,8 @@
+---
+date: 2025-01-12
+---
 Created by [[Pugman]]
-Date: 12/01/2025
+
 
 ----------------------
 The operation’s name reflects the intensity of the mission. The industrial park, now a hub of insurgent activity, is seen as the heart of their operations in Fallujah. By striking hard and fast, the goal is to reduce this stronghold to ashes and leave no room for insurgents to rebuild. The operation is designed to send a clear message: there is no refuge for those who threaten the stability of this region.

@@ -1,5 +1,8 @@
+---
+date: 2024-06-30
+---
 Created by [[Vemon]]
-Date: 30/06/2024
+
 
 ----------------------
 In response to the escalating threat posed by Asad Bitar, also known as "The Scorpion" NATO forces have deployed 207 to North Takistan to reinforce US troops who are currently overwhelmed and suffering significant casualties. Our mission is to locate and neutralise The Scorpion and dismantle his terrorist organisation.
