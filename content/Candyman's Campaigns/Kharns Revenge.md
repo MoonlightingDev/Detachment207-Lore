@@ -1,5 +1,5 @@
 Created by [[Candyman]]
-
+Date: 21/07/2024
 
 ----------------------
 Under the cloak of darkness, in the hidden heart of Deniland Mongolia, whispers of rebellion stir the air. The once tranquil valley, now a battleground of hope and oppression, finds itself at the mercy of an insatiable conqueror. Jhagati Khan, the relentless new leader of the PLA Army, has cast his shadow over Deniland, driven by ambitions that stretch far beyond the horizon. His forces, like an iron fist, grip the land, reaching ever further, heedless of their own fragility and the with the weapons provide by the ION Corporation.
