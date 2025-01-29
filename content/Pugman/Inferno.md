@@ -166,3 +166,28 @@ Operation Inferno has paved the way for a broader campaign to reclaim southern F
 The next phase will focus on pushing into the **southern districts**, dismantling remaining insurgent cells, and establishing full control over the city. Expect increasingly desperate resistance as EN forces are forced to defend their remaining strongholds.
 
 **Prepare for further tasking:** The fire that began with Operation Inferno will now spread, consuming the enemy’s last bastion in Fallujah’s southern districts.
+
+-----------
+Operation 3
+
+The streets of Fallujah had seen countless battles, but this one was different. For weeks, scattered guerrilla forces had waged a desperate resistance, clinging to the last vestiges of control in the city’s southern districts. Operation Inferno wasn’t just another mission — it was a message. Detachment 207 had been tasked with extinguishing the flames of resistance and dismantling the enemy’s hold on one of their most strategic assets: the fortified airbase in the southwest.
+
+The mission began under the cover of dawn, with Alpha and Bravo dropping into the outskirts of the city. The air was heavy with tension as Hawkeye’s ISR drones silently hovered above, scanning for enemy patrols. In the labyrinthine streets below, the soldiers moved with precision, clearing one block at a time. Each alley, each corner, brought new dangers — booby traps, hidden snipers, and ambushes from fanatical fighters unwilling to surrender. By the time the sun reached its peak, the city’s southern districts were silent. The last remnants of the guerrillas had been swept away.
+
+But the airbase loomed on the horizon, a fortress of concrete and steel surrounded by open desert. Ghost’s recon painted a grim picture: rows of enemy aircraft, fortified bunkers, and overlapping fields of fire. The assault would be brutal, and every soldier knew it.
+
+When the order came, Foxtrot unleashed a storm of artillery fire, pounding the airbase with relentless precision. The ground trembled as explosions tore through enemy defenses, blanketing the approach in smoke and fire. Charlie and Bravo roared forward in their Strykers, bounding across the barren terrain under a hail of gunfire. Meanwhile, Alpha and Reaper landed at LZ Dusty, using the lone hill for cover as they launched a relentless barrage into the base's heart.
+
+The final moments of the assault were chaos incarnate. Smokescreens filled the air, masking the relentless push of Detachment 207 as they breached the airbase. The enemy fought to the last man, but it wasn’t enough. By dusk, the airbase was silent. Every aircraft lay in ruins, and every fortified position had been reduced to rubble.
+
+Yet, it was Ghost’s sabotage of the dam and bridge that turned the operation into a strategic masterpiece. As the detonation echoed across the desert, the enemy’s reinforcements were cut off, their power grid plunged into darkness.
+
+Operation Inferno wasn’t just a victory; it was the death knell for the enemy’s ambitions in the region. Detachment 207 had turned the tide of the campaign, proving once again that precision, determination, and unrelenting force could break even the most entrenched resistance.
+### **Key Achievements**
+
+1. Coordinated and timely clearance of Fallujah sectors with minimal collateral damage.
+2. Effective use of combined arms tactics during the airbase assault.
+3. Successful disruption of EN logistics through critical infrastructure demolition.
+### **Conclusion**
+
+Operation Inferno achieved all primary objectives, including the complete clearance of guerrilla forces in southern Fallujah, successful assault and neutralization of the EN-held airbase, and destruction of key infrastructure. Detachment 207 demonstrated exemplary execution of combined arms warfare, ensuring operational success with minimal losses.
